@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi Colleagues!
+
+🔭 I’m currently working on AI/ML projects, especially related to ITU standards and pre-standards.
+👯 I’m looking to collaborate with universities, startups, industry on models, datasets.
+💬 Ask me about ITU AI/ML Challenges, workshops, Autonomous networks, etc
+📫 How to reach me: vishnu.n@ieee.org 
+⚡ Fun fact: I learn (natural) languages for fun!
+
+- vishnu.
 
 <!--
 **vrra/vrra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
